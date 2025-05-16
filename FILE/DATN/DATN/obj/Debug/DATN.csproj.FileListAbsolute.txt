@@ -1,0 +1,21 @@
+E:\ĐỒ ÁN TỐT NGHIỆP\CHOT\DATN\DATN\bin\Debug\DATN.exe.config
+E:\ĐỒ ÁN TỐT NGHIỆP\CHOT\DATN\DATN\bin\Debug\DATN.exe
+E:\ĐỒ ÁN TỐT NGHIỆP\CHOT\DATN\DATN\bin\Debug\DATN.pdb
+E:\ĐỒ ÁN TỐT NGHIỆP\CHOT\DATN\DATN\obj\Debug\DATN.csproj.AssemblyReference.cache
+E:\ĐỒ ÁN TỐT NGHIỆP\CHOT\DATN\DATN\obj\Debug\DATN.csproj.SuggestedBindingRedirects.cache
+E:\ĐỒ ÁN TỐT NGHIỆP\CHOT\DATN\DATN\obj\Debug\DATN.Form1.resources
+E:\ĐỒ ÁN TỐT NGHIỆP\CHOT\DATN\DATN\obj\Debug\DATN.csproj.GenerateResource.cache
+E:\ĐỒ ÁN TỐT NGHIỆP\CHOT\DATN\DATN\obj\Debug\DATN.csproj.CoreCompileInputs.cache
+E:\ĐỒ ÁN TỐT NGHIỆP\CHOT\DATN\DATN\obj\Debug\DATN.exe
+E:\ĐỒ ÁN TỐT NGHIỆP\CHOT\DATN\DATN\obj\Debug\DATN.pdb
+E:\DOANTOTNGHIEP\DATN\DATN\bin\Debug\DATN.exe.config
+E:\DOANTOTNGHIEP\DATN\DATN\bin\Debug\DATN.exe
+E:\DOANTOTNGHIEP\DATN\DATN\bin\Debug\DATN.pdb
+E:\DOANTOTNGHIEP\DATN\DATN\obj\Debug\DATN.csproj.AssemblyReference.cache
+E:\DOANTOTNGHIEP\DATN\DATN\obj\Debug\DATN.csproj.SuggestedBindingRedirects.cache
+E:\DOANTOTNGHIEP\DATN\DATN\obj\Debug\DATN.Form1.resources
+E:\DOANTOTNGHIEP\DATN\DATN\obj\Debug\DATN.csproj.GenerateResource.cache
+E:\DOANTOTNGHIEP\DATN\DATN\obj\Debug\DATN.csproj.CoreCompileInputs.cache
+E:\DOANTOTNGHIEP\DATN\DATN\obj\Debug\DATN.exe
+E:\DOANTOTNGHIEP\DATN\DATN\obj\Debug\DATN.pdb
+E:\DOANTOTNGHIEP\DATN\DATN\obj\Debug\DATN.Form2.resources

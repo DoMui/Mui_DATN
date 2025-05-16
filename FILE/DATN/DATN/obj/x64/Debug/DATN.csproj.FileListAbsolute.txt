@@ -1,0 +1,11 @@
+E:\DOANTOTNGHIEP\DATN\DATN\bin\x64\Debug\DATN.exe.config
+E:\DOANTOTNGHIEP\DATN\DATN\bin\x64\Debug\DATN.exe
+E:\DOANTOTNGHIEP\DATN\DATN\bin\x64\Debug\DATN.pdb
+E:\DOANTOTNGHIEP\DATN\DATN\obj\x64\Debug\DATN.csproj.AssemblyReference.cache
+E:\DOANTOTNGHIEP\DATN\DATN\obj\x64\Debug\DATN.csproj.SuggestedBindingRedirects.cache
+E:\DOANTOTNGHIEP\DATN\DATN\obj\x64\Debug\DATN.Form1.resources
+E:\DOANTOTNGHIEP\DATN\DATN\obj\x64\Debug\DATN.csproj.GenerateResource.cache
+E:\DOANTOTNGHIEP\DATN\DATN\obj\x64\Debug\DATN.csproj.CoreCompileInputs.cache
+E:\DOANTOTNGHIEP\DATN\DATN\obj\x64\Debug\DATN.exe
+E:\DOANTOTNGHIEP\DATN\DATN\obj\x64\Debug\DATN.pdb
+E:\DOANTOTNGHIEP\DATN\DATN\obj\x64\Debug\DATN.Form2.resources
